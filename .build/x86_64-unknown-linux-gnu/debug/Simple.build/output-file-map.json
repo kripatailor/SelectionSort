@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/kripa-tailor/projects/SelectionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/kripa-tailor/projects/SelectionSort/main.swift": {
+    "dependencies": "/home/kripa-tailor/projects/SelectionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/kripa-tailor/projects/SelectionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/kripa-tailor/projects/SelectionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/kripa-tailor/projects/SelectionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
